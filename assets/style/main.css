@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  height: 100vh;
+  background: linear-gradient(45deg, #9B51E0, 70%, #2F80ED);
+}
+
+.elemAnim {
+  position: absolute;
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+  opacity: 0.1;
+  white-space: nowrap;
+}
